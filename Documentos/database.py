@@ -19,6 +19,7 @@ X8 = np.loadtxt('galery_7.out')
 X9 = np.loadtxt('galery_8.out')
 X10 = np.loadtxt('galery_9.out')
 X11 = np.loadtxt('galery_10.out')
+creamos otra fila
 
 
 ####################################
